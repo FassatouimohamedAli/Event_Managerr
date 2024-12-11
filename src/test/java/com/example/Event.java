@@ -18,7 +18,7 @@ private String supervisor ;
         this.id = id;
         this.libelle = libelle;
         DateDebut = dateDebut;
-        DateFin = dateFin;
+
         CoutTotal = coutTotal;
         this.lieu = lieu;
         this.type = type;
